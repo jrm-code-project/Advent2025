@@ -1,0 +1,3 @@
+;;; -*- Mode: Lisp; coding: utf-8 -*-
+
+(in-package "ADVENT2025")
