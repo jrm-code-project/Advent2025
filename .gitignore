@@ -1,0 +1,34 @@
+# Emacs
+*~
+#*#
+.#*
+
+# Common Lisp
+*.fasl
+*.fas
+*.lisp~
+*.fsl
+*.dxl
+*.cmx
+*.dsc
+*.dfsl
+*.pxt
+*.abcl
+*.jar
+*.lib
+*.x86f
+
+# ASDF
+*.asd-cache/
+asdf-cache/
+
+# Lisp Implementation Specific
+.cl-history
+.ccl-history
+.sbcl-history
+.slime-history
+
+# Project specific build artifacts
+/output/
+/build/
+
